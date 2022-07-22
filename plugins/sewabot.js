@@ -33,12 +33,12 @@ wa.me/${owner[0]}
   productListInfo: {
   productSections: [{
   title:'Klik untuk order',
-  products:[{productId:'7487741964584083'}]}],
-  headerImage: { productId: '7487741964584083',
+  products:[{productId:'5348213531903158/6289508902582'}]}],
+  headerImage: { productId: '5348213531903158/6289508902582',
   jpegThumbnail: baper },
   businessOwnerJid: `6289508902582@s.whatsapp.net`
   },
-  footerText: 'https://saweria.co/OneTXz',
+  footerText: 'https://instagram.com/onetxz',
   }},{})
   conn.relayMessage(prepare.key.remoteJid,prepare.message,{messageId:prepare.key.id})
   const data = global.owner.filter(([id, isCreator]) => id && isCreator)
