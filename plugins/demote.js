@@ -33,9 +33,9 @@ let handler = async (m, { conn, text, usedPrefix }) => {
 		var number = text
   }
 
-  if(!text && !m.quoted) return conn.reply(m.chat, `*❏ DEMOTE NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}demote @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}demote 6289654360447*`, m)
-    if(isNaN(number)) return conn.reply(m.chat, `*❏ DEMOTE NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}demote @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}demote 6289654360447*`, m)
-    if(number.length > 15) return conn.reply(m.chat, `*❏ DEMOTE NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}demote @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}demote 6289654360447*`, m) 
+  if(!text && !m.quoted) return conn.reply(m.chat, `*❏ DEMOTE NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}demote @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}demote 6289508902582*`, m)
+    if(isNaN(number)) return conn.reply(m.chat, `*❏ DEMOTE NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}demote @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}demote 6289508902582*`, m)
+    if(number.length > 15) return conn.reply(m.chat, `*❏ DEMOTE NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}demote @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}demote 6289508902582*`, m) 
   try {
 		if(text) {
 			var user = number + '@s.whatsapp.net'
