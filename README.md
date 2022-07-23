@@ -36,7 +36,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/OneTXz/OneTXz-Bot
-cd Aine-MD
+cd OneTXz-Bot
 pkg install yarn
 yarn
 
@@ -205,20 +205,6 @@ Allah SWT,
 Orang Tua,
 
 Semua yang selalu mendukung
-
-#### Special Thank's To
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-[![ariffb25](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)
-
-
-## Contributor
-
-[![Darrma23](https://github.com/Darrma23.png?size=100)](https://github.com/Darrma23)
-[![aniq12](https://github.com/aniq12.png?size=100)](https://github.com/aniq12)
-[![amiruldev20](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20)
-[![Chacax](https://github.com/Chacax.png?size=100)](https://github.com/Chacax)
-[![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 
 
 Best Regards. OneTXz-Bot
