@@ -27,16 +27,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Aiinne",
+    "homepage": "https://github.com/OneTXz",
     "author": {
         "name": "Reki Saputra"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aiinne"
+        "url": "git+https://github.com/OneTXz"
     },
     "bugs": {
-        "url": "https://github.com/Aiinne"
+        "url": "https://github.com/OneTXz"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
