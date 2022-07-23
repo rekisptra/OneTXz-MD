@@ -35,7 +35,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Aiinne/Aine-MD
+git clone https://github.com/OneTXz/OneTXz-Bot
 cd Aine-MD
 pkg install yarn
 yarn
@@ -72,8 +72,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
+git clone https://github.com/OneTXz/OneTXz-Bot
+cd OneTXz-Bot
 npm install
 npm update
 ```
@@ -88,8 +88,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
+git clone https://github.com/OneTXz/OneTXz-Bot
+cd OneTXz-Bot
 npm install
 npm update
 ```
@@ -221,5 +221,5 @@ Semua yang selalu mendukung
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 
 
-Best Regards. Aine-MD
+Best Regards. OneTXz-Bot
 
