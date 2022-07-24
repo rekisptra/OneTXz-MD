@@ -1,4 +1,5 @@
-let fetch = require('node-fetch')
+
+import fetch from 'node-fetch'
 
 export async function before(m, { isAdmin, isBotAdmin }) {
 if (m.isBaileys && m.fromMe)
