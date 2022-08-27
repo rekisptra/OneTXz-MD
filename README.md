@@ -1,4 +1,4 @@
-# OneTXz-Bot
+# OneTXz-MD
 
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
@@ -35,7 +35,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/OneTXz/OneTXz-Bot
+git clone https://github.com/OneTXz/OneTXz-MD
 cd OneTXz-Bot
 pkg install yarn
 yarn
@@ -72,7 +72,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/OneTXz/OneTXz-Bot
+git clone https://github.com/OneTXz/OneTXz-MD
 cd OneTXz-Bot
 npm install
 npm update
